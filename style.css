@@ -1,0 +1,62 @@
+
+        #requestJsonText {
+            resize: none;
+            background: rgb(52, 58, 64);
+            color: rgb(255, 255, 255);
+        }
+
+        #requestJsonText::placeholder {
+            color: rgb(160, 158, 158);
+        }
+
+        #responseJsonText {
+            resize: none;
+            background: rgb(52, 58, 64);
+            color: rgb(255, 255, 255);
+        }
+
+        #responseJsonText::placeholder {
+            color: rgb(160, 158, 158);
+        }
+
+        #url {
+            background: rgb(52, 58, 64);
+            color: white;
+        }
+
+        #url::placeholder {
+            color: rgb(160, 158, 158);
+        }
+
+        #url:focus {
+            background: rgb(52, 58, 64);
+            color: white;
+        }
+
+        .paraKey {
+            background: rgb(52, 58, 64);
+            color: white;
+        }
+
+        .paraKey::placeholder {
+            color: rgb(160, 158, 158);
+        }
+
+        .paraKey:focus {
+            background: rgb(52, 58, 64);
+            color: white;
+        }
+
+        .paraValue {
+            background: rgb(52, 58, 64);
+            color: white;
+        }
+
+        .paraValue::placeholder {
+            color: rgb(160, 158, 158);
+        }
+
+        .paraValue:focus {
+            background: rgb(52, 58, 64);
+            color: white;
+        }
